@@ -1,0 +1,9 @@
+.flexclass {
+  display: flex;
+  flex-direction: row;
+}
+
+.navBar {
+  position: fixed;
+  top: 0;
+}
